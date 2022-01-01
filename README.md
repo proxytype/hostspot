@@ -1,5 +1,5 @@
 # HostSpot
-Create wifi hotspot with shared internet connection from other adapter
+Create wifi hotspot with shared internet connection from another adapter
 
 ![alt text](https://raw.githubusercontent.com/proxytype/hostspot/main/hostspot.gif)
 
