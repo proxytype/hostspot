@@ -6,5 +6,5 @@ Create wifi hotspot with shared internet connection from another adapter.
 Use WIN32 api to create wifi hotspot with shared internet connection from different device by creating "host network adapter" and shared the internet connection from another device using INetSharingManager.
 
 [I'm an inline-style link](https://www.google.com)
-[INetSharingManager] (https://docs.microsoft.com/en-us/windows/win32/api/netcon/nn-netcon-inetsharingmanager)
-[INetSharingManager] (https://docs.microsoft.com/en-us/windows/win32/api/netcon/nn-netcon-inetsharingmanager)
+[WIN32 - INetSharingManager](https://docs.microsoft.com/en-us/windows/win32/api/netcon/nn-netcon-inetsharingmanager)
+[WIN32 - INetSharingManager](https://docs.microsoft.com/en-us/windows/win32/api/netcon/nn-netcon-inetsharingmanager)
