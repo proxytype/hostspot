@@ -13,6 +13,14 @@ Use WIN32 api to create wifi hotspot with shared internet connection from differ
 [- INetSharingConfiguration](https://docs.microsoft.com/en-us/windows/win32/api/netcon/nn-netcon-inetsharingconfiguration)<br>
 [- WLAN_HOSTED_NETWORK_CONNECTION_SETTINGS](https://docs.microsoft.com/en-us/windows/win32/api/wlanapi/ns-wlanapi-wlan_hosted_network_connection_settings)<br>
 
+## Win32 Functions
+ - WlanOpenHandle
+ - WlanCloseHandle
+ - WlanHostedNetworkSetProperty
+ - WlanHostedNetworkSetSecondaryKey
+ - WlanHostedNetworkForceStop
+ - WlanHostedNetworkStartUsing
+
 
 
 
