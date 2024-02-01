@@ -1,9 +1,9 @@
 # HostSpot
 Create wifi hotspot with shared internet connection from another adapter.
 
-![alt text](https://raw.githubusercontent.com/proxytype/hostspot/main/hostspot.gif)
+Leveraging the WIN32 API, our solution enables the creation of a WiFi hotspot with a shared internet connection across various devices. This is achieved by dynamically generating a "host network adapter" through the WIN32 API. The internet connection is seamlessly shared from another device, facilitated by the INetSharingManager interface. This robust approach ensures a reliable and efficient method for establishing a WiFi hotspot, promoting connectivity and resource sharing across multiple devices.
 
-Use WIN32 api to create wifi hotspot with shared internet connection from different device by creating "host network adapter" and shared the internet connection from another device using INetSharingManager.
+![alt text](https://raw.githubusercontent.com/proxytype/hostspot/main/hostspot.gif)
 
 ## WIN32 Objects And Structures
 [- INetSharingManager](https://docs.microsoft.com/en-us/windows/win32/api/netcon/nn-netcon-inetsharingmanager)<br>
